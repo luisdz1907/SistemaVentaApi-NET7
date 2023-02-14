@@ -1,0 +1,3 @@
+C:\Users\luisd\OneDrive\Escritorio\.NET\APISistemaVenta\out\SistemaVenta.DTO.dll
+C:\Users\luisd\OneDrive\Escritorio\.NET\APISistemaVenta\out\SistemaVenta.DTO.deps.json
+C:\Users\luisd\OneDrive\Escritorio\.NET\APISistemaVenta\out\SistemaVenta.DTO.pdb
